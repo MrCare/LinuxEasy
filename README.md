@@ -12,24 +12,20 @@ This is a note of linux which helps me summary the command and review
 
 - 虚拟机软件：`VMWare`
 
-- SSH软件：`SecureCRT` `WinSCP`
+- SSH软件：`SecureCRT` `WinSCP`
 
 ## Index
 
-- Linux 常用命令
+0. [Linux 基础常识](0.md)
 
-- Vim 文本编辑器
+1. Linux 常用命令
 
-- Linux 软件安装
+2. Vim 文本编辑器
 
-- User 配置文件
+3. Linux 软件安装
 
-- 权限管理
+4. User 配置文件
 
+5. 权限管理
 
-
-
-
-
-
-
+6. 文件系统管理
