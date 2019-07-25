@@ -16,7 +16,7 @@ This is a note of linux which helps me summary the command and review
 
 ## Index
 
-0. [Linux 基础常识](0.md)
+0. [Linux 基础常识](linux0.md)
 
 1. Linux 常用命令
 
@@ -29,3 +29,7 @@ This is a note of linux which helps me summary the command and review
 5. 权限管理
 
 6. 文件系统管理
+
+7. [Shell 编程基础](linux7.md)
+
+
