@@ -32,4 +32,4 @@ This is a note of linux which helps me summary the command and review
 
 7. [Shell 编程基础](linux7.md)
 
-
+8. Shell 编程
