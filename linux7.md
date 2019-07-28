@@ -10,7 +10,7 @@
 
 分类：
 
-- Bourne Shell：从1979起Unix就开始使用Bourne Shell，其主文件名为
+- Bourne Shell：从1979起Unix就开始使用Bourne Shell，其主文件名为 sh
 
 - C Shell：主要用在BSD版Unix系统中，其语法与C语言类似
 
