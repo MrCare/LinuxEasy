@@ -18,18 +18,28 @@ This is a note of linux which helps me summary the command and review
 
 0. [Linux 基础常识](linux0.md)
 
-1. Linux 常用命令
+1. [Linux 常用命令](linux1.md)
 
-2. Vim 文本编辑器
+2. [Vim 文本编辑器](linux2.md)
 
-3. Linux 软件安装
+3. [Linux 软件安装](linux3.md)
 
-4. User 配置文件
+4. [User 配置文件](linux4.md)
 
-5. 权限管理
+5. [权限管理](linux5.md)
 
-6. 文件系统管理
+6. [文件系统管理](linux6.md)
 
 7. [Shell 编程基础](linux7.md)
 
 8. [Shell 编程](linux8.md)
+
+9. [linux 服务管理](linux9.md)
+
+10. [linux 系统管理](linux10.md)
+
+11. [日志管理](linux11.md)
+
+12. [启动管理](linux12.md)
+
+13. [备份与恢复](linux13.md)
