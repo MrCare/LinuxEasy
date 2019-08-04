@@ -2,7 +2,7 @@
 
 ## 1. Directory of Linux
 
-![dir of linux]](img/目录结构.png)
+![dir of linux](img/目录结构.png)
 
 常用目录的主要功能如下：
 
