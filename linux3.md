@@ -94,7 +94,7 @@ RPM 中文件提取
 
 - 环形依赖：a -> b -> c -> a    #abc用一条命令安装即可
 
-- 模块依赖：查询网站    [www.rpmfind.net](www.rpmfind.net)
+- 模块依赖：查询网站    [www.rpmfind.net](http://www.rpmfind.net)
 
 ### 2.3 yum在线管理
 
